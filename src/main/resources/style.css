@@ -1,0 +1,27 @@
+    Label {
+        -fx-padding: 10px;
+    }
+
+    .bg-1 {
+        -fx-background-color: #FFFFFF;
+    }
+
+    .bg-2 {
+        -fx-background-color: #41CB93;
+    }
+
+    .bg-3 {
+        -fx-background-color: #ffefc8;
+    }
+
+    .bg-4 {
+        -fx-background-color: #000000;
+    }
+
+    .bg-5 {
+        -fx-background-color: #befaff;
+    }
+
+    .bg-6 {
+        -fx-background-color: #514e4e;
+    }
